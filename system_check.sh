@@ -12,7 +12,7 @@ hostname = $(hostname)
 ##sending mail as
 ##configured using postfix on Ubuntu
 ## sending mail to
-to="Abubakar225599@gmail.com"
+to="admin@gmail.com"
 
 
 ## get the percentage of RAM usage and set RAM threshold to 50% 

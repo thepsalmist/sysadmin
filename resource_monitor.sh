@@ -4,8 +4,8 @@
 #######################################################################################
 #Script Name    :Task 1 (resourcemonitor.sh)
 #Description    :the script monitors the system resources at a refresh rate of every 1 second      
-#Author         :Abubakar
-#Email          :Abubakar225599@gmail.com
+#Author         :Thepsalmist
+#Email          :
 
 #######################################################################################
 

@@ -4,8 +4,8 @@
 #######################################################################################
 #Script Name    :Task 2 (logaudit.sh)
 #Description    :the script logs the details
-#Author         :Abubakar
-#Email          :Abubakar225599@gmail.com
+#Author         :Thepsalmist
+#Email          :
 
 #######################################################################################
 
